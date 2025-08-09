@@ -1,0 +1,48 @@
+2025-04-04 00:56:04,612 Initializing Research with file: ../ex03/data.csv
+2025-04-04 00:56:04,631 Reading file: ../ex03/data.csv
+2025-04-04 00:56:04,639 Finished reading file.
+2025-04-04 00:56:04,639 Initializing Calculations.
+2025-04-04 00:56:04,640 Calculating counts.
+2025-04-04 00:56:04,641 Counts calculated: head=5, tail=7
+2025-04-04 00:56:04,641 Calculating fractions from counts: (5, 7)
+2025-04-04 00:56:04,642 Fractions calculated: head=41.67, tail=58.33
+2025-04-04 00:56:04,644 Initializing Analytics.
+2025-04-04 00:56:04,644 Initializing Calculations.
+2025-04-04 00:56:04,645 Predicting random outcomes for 3 predictions.
+2025-04-04 00:56:04,667 Random predictions: [[0, 1], [1, 0], [1, 0]]
+2025-04-04 00:56:04,668 Saving data to file: report.txt
+2025-04-04 00:56:04,676 Data saved successfully.
+2025-04-04 00:56:04,677 Sending Telegram message: The report has been successfully created
+2025-04-04 00:56:04,942 Telegram message sent successfully.
+2025-04-05 14:52:00,022 Initializing Research with file: ../ex03/data.csv
+2025-04-05 14:52:00,026 Reading file: ../ex03/data.csv
+2025-04-05 14:52:00,031 Finished reading file.
+2025-04-05 14:52:00,031 Initializing Calculations.
+2025-04-05 14:52:00,032 Calculating counts.
+2025-04-05 14:52:00,032 Counts calculated: head=5, tail=7
+2025-04-05 14:52:00,032 Calculating fractions from counts: (5, 7)
+2025-04-05 14:52:00,033 Fractions calculated: head=41.67, tail=58.33
+2025-04-05 14:52:00,033 Initializing Analytics.
+2025-04-05 14:52:00,033 Initializing Calculations.
+2025-04-05 14:52:00,034 Predicting random outcomes for 3 predictions.
+2025-04-05 14:52:00,034 Random predictions: [[1, 0], [0, 1], [0, 1]]
+2025-04-05 14:52:00,034 Saving data to file: report.txt
+2025-04-05 14:52:00,040 Data saved successfully.
+2025-04-05 14:52:00,043 Sending Telegram message: The report has been successfully created
+2025-04-05 14:52:00,376 Telegram message sent successfully.
+2025-04-05 15:23:27,920 Initializing Research with file: ../ex03/data.csv
+2025-04-05 15:23:27,922 Reading file: ../ex03/data.csv
+2025-04-05 15:23:27,925 Finished reading file.
+2025-04-05 15:23:27,925 Initializing Calculations.
+2025-04-05 15:23:27,926 Calculating counts.
+2025-04-05 15:23:27,926 Counts calculated: head=5, tail=7
+2025-04-05 15:23:27,926 Calculating fractions from counts: (5, 7)
+2025-04-05 15:23:27,927 Fractions calculated: head=41.67, tail=58.33
+2025-04-05 15:23:27,927 Initializing Analytics.
+2025-04-05 15:23:27,927 Initializing Calculations.
+2025-04-05 15:23:27,927 Predicting random outcomes for 3 predictions.
+2025-04-05 15:23:27,928 Random predictions: [[0, 1], [1, 0], [1, 0]]
+2025-04-05 15:23:27,928 Saving data to file: report.txt
+2025-04-05 15:23:27,931 Data saved successfully.
+2025-04-05 15:23:27,932 Sending Telegram message: The report has been successfully created
+2025-04-05 15:23:28,159 Telegram message sent successfully.
