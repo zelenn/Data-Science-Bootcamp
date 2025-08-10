@@ -47,5 +47,13 @@ Full repo is [here](DS_Bootcamp.Day05)
 - Performance optimization
 Full repo is [here](DS_Bootcamp.Day06)
 
-Days 07-09 tba
+### Day 07: Pandas, SQL and Data Visualization
+- Interactive plots with Plotly  
+- Advanced Matplotlib customization  
+- Seaborn heatmaps and distributions  
+Full repo is [here](DS_Bootcamp.Day07)  
+
+
+
+Days 08-09 tba
 
