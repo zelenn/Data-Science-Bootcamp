@@ -53,15 +53,8 @@ Full repo is [here](DS_Bootcamp.Day06)
 - Seaborn heatmaps and distributions  
 Full repo is [here](DS_Bootcamp.Day07)  
 
-<<<<<<< HEAD
 ### Day 08: Intro to Machine Learning  
 - Binary & multiclass classification, decision‑boundary visualisation, regression and clustering basics  
 - Feature engineering, model evaluation, overfitting mitigation (train‑test split & cross‑validation)  
 - Logistic regression, SVM, decision tree, random forest, linear regression and K‑means  
 Full repo is [here](DS_Bootcamp.Day08)
-=======
-
-
-Days 08-09 tba
-
->>>>>>> origin/main
